@@ -1,13 +1,9 @@
-Here's a modern and sleek rewrite for your Ecommerce Cart Application README:
-
----
-
 # Ecommerce Cart Application
 
 <p align="center">
-  <img src="SS/01.png" alt="Marketplace Application Screenshot 1" width="35%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="SS/01.png" alt="Marketplace Application Screenshot 1" width="30%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   &nbsp;
-  <img src="SS/02.png" alt="Marketplace Application Screenshot 2" width="35%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="SS/02.png" alt="Marketplace Application Screenshot 2" width="30%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </p>
 
 ## 🚀 Features
